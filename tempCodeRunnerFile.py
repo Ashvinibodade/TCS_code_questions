@@ -1,2 +1,1 @@
-
-    ty=str(num)
+print("--",max_repeat_count,most_repeated_char,letter,result)
